@@ -1,0 +1,54 @@
+# SEO Audit Template
+
+## Technical SEO
+- [ ] Page load speed (<3s)
+- [ ] Mobile optimization
+- [ ] SSL certificate
+- [ ] XML sitemap
+- [ ] Robots.txt
+- [ ] Structured data
+- [ ] Canonical tags
+- [ ] 404 page
+
+## On-Page SEO
+- [ ] Meta titles (50-60 characters)
+- [ ] Meta descriptions (150-160 characters)
+- [ ] H1 tags (1 per page)
+- [ ] H2-H6 structure
+- [ ] Internal links
+- [ ] Alt tags for images
+- [ ] Content length (>300 words)
+- [ ] Keywords in content
+
+## Content
+- [ ] Unique content
+- [ ] Content freshness
+- [ ] Relevance for target audience
+- [ ] Grammar correctness
+- [ ] Readability score
+- [ ] Call-to-action
+
+## Link Building
+- [ ] Backlink quality
+- [ ] Anchor text diversity
+- [ ] Domain authority
+- [ ] Toxic links check
+- [ ] Competitive profile
+
+## Local SEO
+- [ ] Google Business Profile
+- [ ] Local citations
+- [ ] Reviews and ratings
+- [ ] Local keywords
+- [ ] Maps and navigation
+
+## Analytics
+- [ ] Google Analytics 4
+- [ ] Google Search Console
+- [ ] Conversion tracking
+- [ ] Goal setup
+- [ ] E-commerce tracking
+
+## Audit date: ____________
+## Performed by: ____________
+## Status: ____________

@@ -1,0 +1,35 @@
+Názov repozitára: seo-dashboard
+
+Štruktúra:
+
+seo-dashboard/
+├─ README.md
+├─ reports/
+│  ├─ monthly-report-2026-01.md
+│  └─ keyword-analysis.md
+├─ tools/
+│  ├─ seo-audit-template.xlsx
+│  └─ backlink-checklist.xlsx
+├─ content-strategy/
+│  ├─ blog-ideas.md
+│  └─ content-calendar.md
+└─ assets/
+   └─ charts/
+
+
+Popis jednotlivých súborov:
+
+README.md – krátky popis repozitára, napr.:
+
+Tento repozitár slúži ako SEO dashboard pre sledovanie kľúčových metrík, analýzu kľúčových slov a plánovanie content stratégie. Obsahuje reporty, nástroje a šablóny pre každodennú prácu SEO manažéra
+
+
+reports/ – sem dávaš mesačné reporty, analýzy kľúčových slov, výsledky auditov
+
+tools/ – šablóny Excel súborov alebo checklisty, napríklad audit webu, kontrola spätných odkazov
+
+content-strategy/ – nápady na blogy, obsahový kalendár, poznámky k optimalizácii obsahu
+
+assets/charts/ – grafy a vizualizácie z reportov
+
+dopln suobry a daj tam nejake sample data
